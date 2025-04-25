@@ -35,12 +35,12 @@ I'm on a journey to become a better thinker and builder, one line of code at a t
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/esra-g%C3%BCrb%C3%BCz-b4a9162a7/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/esra-g%C3%BCrb%C3%BCz-b4a9162a7/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)]((https://github.com/EsraGurbuz))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:esragurbuze@gmail.com)
 
 ---
 
 > “Even the smallest person can change the course of the future.” – Galadriel ✨  
 > “I live my life a quarter mile at a time.” – Dom Toretto 🏎️  
 > “Every adventure requires a first step.” – Alice 🐇
-
-
