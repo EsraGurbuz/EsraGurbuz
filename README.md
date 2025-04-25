@@ -13,13 +13,19 @@
 
 ## ✨ About Me
 
-Hi! I'm Esra, a curious and motivated software engineering student.  
-Currently exploring the coding universe through:
+Hi! I'm Esra, a curious and motivated first-year software engineering student with a passion for exploring how things work behind the screen.  
+I love diving into the fundamentals of code and understanding the logic that powers our digital world.
+
+Currently, I’m learning and experimenting with:
 
 - 🚀 Java, C, and Python  
-- 🌱 Fundamentals of programming and computer science  
+- 🌱 Programming logic, problem-solving, and computer science basics  
 
-In my free time, I enjoy getting inspired by space documentaries and movies like **The Lord of the Rings**, **Fast & Furious**, and **Alice in Wonderland** 🌌🎥
+In my free time, I’m fascinated by the mysteries of space — from stargazing on quiet nights to watching deep-space documentaries that make me feel like a tiny piece of something infinite.  
+I’m also a big fan of storytelling in all its forms: whether it’s the epic journeys of *The Lord of the Rings*, the adrenaline of *Fast & Furious*, or the whimsical wonder of *Alice in Wonderland*.  
+These worlds inspire my creativity and remind me that code, like a great story, can open portals to new realities.  
+
+> Just like space, the world of software has infinite possibilities — and I’m here to explore it, one project at a time.
 
 ---
 
@@ -44,3 +50,11 @@ I'm on a journey to become a better thinker and builder, one line of code at a t
 > “Even the smallest person can change the course of the future.” – Galadriel ✨  
 > “I live my life a quarter mile at a time.” – Dom Toretto 🏎️  
 > “Every adventure requires a first step.” – Alice 🐇
+
+---
+
+## 🎲 Fun Fact
+
+I may not be the coolest software engineering student,  
+but if you ask the coolest software engineering student,  
+they will tell you that I am the coolest. 😎
